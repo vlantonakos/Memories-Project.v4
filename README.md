@@ -1,8 +1,9 @@
 # Memories-Project.v4
 ## SIGN IN /SIGN UP PAGE
 ![image](https://github.com/vlantonakos/Memories-Project.v3/assets/107072477/37eb9222-4bd9-4771-bffa-69a5a485ae27)
+![image](https://github.com/vlantonakos/Memories-Project.v4/assets/107072477/fb572758-0271-4af4-93ea-9a37576f1a2d)
 ## HOME
-![image](https://github.com/vlantonakos/Memories-Project.v4/assets/107072477/59023d71-01c4-4c81-b5af-9c9c0c787023)
+![image](https://github.com/vlantonakos/Memories-Project.v4/assets/107072477/af2d4835-4ab4-4c3f-8fcb-587446a0eeda)
 ## DATABASE
 ![image](https://github.com/vlantonakos/Memories-Project.v3/assets/107072477/58ca644e-aec2-4b5b-83ff-32d40dbd5348)
-![image](https://github.com/vlantonakos/Memories-Project.v3/assets/107072477/b2799431-54b2-46e1-94f2-7306bc03929b)
+![image](https://github.com/vlantonakos/Memories-Project.v4/assets/107072477/25b65d0d-8360-477d-b384-5ffc1ca96aba)
